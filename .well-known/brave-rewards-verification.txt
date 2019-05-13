@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: gbraad.nl
+Token: ad9def63ef482695579d3a8abb423e2ac757f269101a2645a597fbfd8f068e6c
