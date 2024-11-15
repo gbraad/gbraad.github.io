@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<XRD xmlns='http://docs.oasis-open.org/ns/xri/xrd-1.0'>
+    <Subject>acct:gbraad.nl@web.brid.gy</Subject>
+    <Alias>https://gbraad.nl/</Alias>
+    
+    <Link rel='http://webfinger.net/rel/profile-page' type='text/html' href='https://gbraad.nl/' />
+    <Link rel='http://webfinger.net/rel/avatar' type='' href='https://gbraad.nl/favicon.ico' />
+    <Link rel='canonical_uri' type='text/html' href='https://gbraad.nl/' />
+    <Link rel='self' type='application/ld+json; profile="https://www.w3.org/ns/activitystreams"' href='https://web.brid.gy/gbraad.nl' />
+    <Link rel='self' type='application/activity+json' href='https://web.brid.gy/gbraad.nl' />
+    <Link rel='inbox' type='application/ld+json; profile="https://www.w3.org/ns/activitystreams"' href='https://web.brid.gy/gbraad.nl/inbox' />
+    <Link rel='sharedInbox' type='application/ld+json; profile="https://www.w3.org/ns/activitystreams"' href='https://web.brid.gy/ap/sharedInbox' />
+    <Link rel='http://ostatus.org/schema/1.0/subscribe' type='' href='' />
+</XRD>
